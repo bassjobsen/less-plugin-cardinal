@@ -7,7 +7,7 @@ Imports the Less code for [Cardinal](http://cardinalcss.com/) before your custom
 
 Install..
 
-Notice require Less v3.2.1 (download from github)
+Requires Less v2.4.0
 
 ```
 npm install -g less-plugin-cardinal
